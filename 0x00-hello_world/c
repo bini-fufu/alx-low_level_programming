@@ -733,6 +733,6 @@ extern int __overflow (FILE *, int);
 # 8 "0-main.c"
 int main(void)
 {
- printf("Holberton School");
+ printf("Holberton Schoold");
  return (0);
 }
