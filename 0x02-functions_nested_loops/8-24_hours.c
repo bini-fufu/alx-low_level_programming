@@ -31,10 +31,10 @@ void jack_bauer(void)
 					_putchar(min_tens);
 					_putchar(min_ones);
 					_putchar('\n');
-					min_ones;
+					min_ones++;
 				}
 				min_ones = '0';
-				min_ten++;
+				min_tens++;
 			}
 			min_tens = '0';
 			ones++;
